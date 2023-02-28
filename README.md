@@ -5,6 +5,6 @@ Learning Dynamical Systems from Data: A Simple Cross-Validation Perspective, Par
 Note, please use Terminal to run the main code: `lasso_cv_fillna.py`.
 
 For example, the Lorenz system: 
-``` shell
+``` python
 python ./lasso_cv_fillna.py -n 64
 ```
